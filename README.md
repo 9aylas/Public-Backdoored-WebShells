@@ -1,5 +1,5 @@
 # Disturbing Public Backdoored Webshells
-## _because it only coast few minutes :)_
+## _because it only cost few minutes :)_
 
 
 I noticed that most of the sites which supposedly offer webshells, all of them are backdoored, and likely its indexed first when you googling for webshells.
