@@ -10,6 +10,7 @@ I noticed that most of the sites which supposedly offer webshells, all of them a
 
 ## !Let's Start!
 > a backdoored wso webshell : https://shellx.org//Shell/wsodownload.txt
+> 
 > Let's decode the hardcoded php here : https://malwaredecoder.com/
 
 ##### As you can see decrypted code level 3.
